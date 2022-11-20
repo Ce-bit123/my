@@ -5,7 +5,7 @@ import pandas as pd
 import joblib
 
 # Title
-st.header("Streamlit Machine Learning App")
+st.header("Risk prediction of early neurological deterioration within 72 hours after thrombolytic therapy in ischemic stroke")
 
 # Input bar 1
 time1 = st.number_input("Enter Time from onset to admission")
